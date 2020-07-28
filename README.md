@@ -1,16 +1,24 @@
+# Akshay Kumar
+
 ### Hi there 👋
 
-<!--
-**Akshayrrao/Akshayrrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi ! I'm Akshaya Kumar . I love building cool & fun things .
 
-Here are some ideas to get you started:
+## My Repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Firebase Video Streaming App](https://github.com/Akshayrrao/Firebase.video.streaming.app)
+- [Nursery Plant management system](https://github.com/Akshayrrao/Nursery-management-system-master)
+- [Shop Management System](https://github.com/Akshayrrao/Shop-management-system)
+- [Android Chatbot](https://github.com/Akshayrrao/Android-Chatbot)
+- [Notepad using Python ](https://github.com/Akshayrrao/Notepad-using-python3)
+- [Electronic Die using 8086 Microprocessor](https://github.com/Akshayrrao/Electronic-die-using-8086-microprocessor)
+- [Phone Book using Dll](https://github.com/Akshayrrao/Phone-book-using-dll)
+- [chat Box using Java](https://github.com/Akshayrrao/chat-box-using-java)
+- [Firebase Login with Netflix Interface](https://github.com/Akshayrrao/Firebase.login.with.Netflix.interface)
+
+## 📫 How to reach me:
+[Linkedin](https://www.linkedin.com/in/akshay-kumar-a39461166)
+[Facebook](https://www.facebook.com/people/Akshay-Kumar/100007361254437)
+[Instagram](https://www.instagram.com/akshay_rrao/?hl=en)
+[Blog](https://www.akshaykumar-blog.com/)
+
