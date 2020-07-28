@@ -17,8 +17,8 @@ Hi ! I'm Akshaya Kumar . I love building cool & fun things .
 - [Firebase Login with Netflix Interface](https://github.com/Akshayrrao/Firebase.login.with.Netflix.interface)
 
 ## 📫 How to reach me:
-[:fa-linkedin:](https://www.linkedin.com/in/akshay-kumar-a39461166)
-[:fa-facebook:](https://www.facebook.com/people/Akshay-Kumar/100007361254437)
-[:fa-instagram:](https://www.instagram.com/akshay_rrao/?hl=en)
-[:fa-external-link:](https://www.akshaykumar-blog.com/)
+- [Linkedin](https://www.linkedin.com/in/akshay-kumar-a39461166)
+- [Facebook](https://www.facebook.com/people/Akshay-Kumar/100007361254437)
+- [Instagram](https://www.instagram.com/akshay_rrao/?hl=en)
+- [Blog](https://www.akshaykumar-blog.com/)
 
